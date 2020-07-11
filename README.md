@@ -21,13 +21,13 @@
 ## 라이브러리
 - [ ] OkHttp
 - [x] Retrofit
-- [ ] Coroutine
+- [x] Coroutine
 - [x] RxJava
 - [x] RxKotlin
 - [x] RxAndroid
-- [ ] Dagger
-- [ ] Koin
-- [ ] Hilt
+- [x] Dagger
+- [x] Koin
+- [x] Hilt
 - [ ] Paging
 - [ ] Realm
 - [ ] LiveData
