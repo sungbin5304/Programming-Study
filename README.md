@@ -6,34 +6,34 @@
 - [x] [JavaScript](https://github.com/sungbin5304/KUtils)
 - [x] [Java](https://github.com/sungbin5304/SnsAutoReplyBot)
 - [ ] TypeScript
-- [ ] Node.js
-- [ ] C
+- [x] Node.js
+- [x] C
 - [ ] C#
 - [ ] C++
 - [x] [Kotlin](https://github.com/sungbin5304/AndroidUtils)
-- [ ] Lua
+- [x] Lua
 - [ ] Deno
-- [ ] Swift
+- [x] Swift
 - [ ] Rust
-- [ ] Dart (flutter)
+- [x] Dart (flutter)
 - [ ] Vue
-- [ ] React
+- [x] React
 
 # Android 
 ## 라이브러리
 - [ ] OkHttp
-- [x] Retrofit
+- [ ] Retrofit
 - [x] Coroutine
-- [x] RxJava
-- [x] RxKotlin
-- [x] RxAndroid
+- [ ] RxJava
+- [ ] RxKotlin
+- [ ] RxAndroid
 - [x] Dagger
-- [x] Koin
+- [ ] Koin
 - [x] Hilt
 - [ ] Paging
 - [ ] Realm
 - [ ] LiveData
-- [x] DataBinding
+- [ ] DataBinding
 - [ ] Room
 
 ## 아키텍처 패턴
