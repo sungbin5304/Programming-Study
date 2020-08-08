@@ -1,0 +1,24 @@
+Dependency injection (DI) is a technique widely used in programming and well suited to Android development.
+
+By following the principles of DI, you lay the groundwork for good app architecture.
+
+Implementing dependency injection provides you with the following advantages:
+
+Reusability of code
+Ease of testing
+
+What is dependency injection?
+
+Classes often require references to other classes.
+
+For example, a Car class might need a reference to an Engine class.
+
+These required classes are called dependencies, and in this example the Car class is dependent on having an instance of the Engine class to run.
+
+There is way for a class to get an object it needs:
+ 
+Have it supplied as a parameter.
+The app can provide these dependencies when the class is constructed or pass them in to the functions that need each dependency.
+In the example above, the Car constructor would receive Engine as a parameter.
+
+This way is dependency injection!
