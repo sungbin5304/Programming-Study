@@ -116,3 +116,12 @@
 > BoilerPlate Code
 
 최소한의 변경으로 여러곳에서 재사용 되며, 반복적으로 비슷한 형태를 띄는 코드
+
+## Executors
+//todo
+
+## Wrapper
+//todo
+
+## Coroutines
+//todo
