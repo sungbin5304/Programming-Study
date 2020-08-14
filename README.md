@@ -57,11 +57,14 @@
 1. Application Context
 2. Activity Context
 
-## Dagger
+## [Dagger](https://sungbin.me/entry/Dagger2Kotlin-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-Dagger2-%EB%AC%B4%EC%9E%91%EC%A0%95-%EC%8D%A8%EB%B3%B4%EA%B8%B0)
 > Component Method
 
 `Provision Method` : 매개변수 X, 모듈이 제공하는 객체타입을 받음<br/><br/>
 `Member-Injection Method` : 의존성 주입을 받을 객체를 메소드의 피라미터로 넘김 (`@Inject`)
+
+## [Hilt](https://sungbin.me/entry/HiltKotlin-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-Hilt-%EB%AC%B4%EC%9E%91%EC%A0%95-%EC%8D%A8%EB%B3%B4%EA%B8%B0)
+> Dependency Injection better then `Dagger`
 
 -----
 
