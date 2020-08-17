@@ -21,6 +21,8 @@
 - [ ] Next.js
 - [x] React
 - [ ] HTML
+- [ ] Python
+- [ ] PHP
 
 # Android 
 ## 라이브러리
