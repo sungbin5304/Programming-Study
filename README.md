@@ -2,6 +2,8 @@
 
 -----
 
+> goto [Android-Interview-QnA-2020](https://github.com/sungbin5304/Android-Interview-QnA-2020)
+
 # Languages
 - [x] [JavaScript](https://github.com/sungbin5304/KUtils)
 - [x] [Java](https://github.com/sungbin5304/SnsAutoReplyBot)
