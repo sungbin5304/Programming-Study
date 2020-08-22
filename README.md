@@ -21,7 +21,7 @@
 - [x] Dart (flutter)
 - [ ] Vue.js
 - [ ] Next.js
-- [x] React.js
+- [x] React
 - [ ] HTML
 - [x] Python
 - [x] PHP
